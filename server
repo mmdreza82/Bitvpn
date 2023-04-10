@@ -12,3 +12,6 @@ vless://3546c11d-5183-429e-ac6a-9069eaf220f2@free-netazad22.ddns.net:443?mode=gu
 
 # Bitvpn 11 _ Irancell
 vmess://eyJhZGQiOiJmYXJhbmNlNS5tcnJvYm90Mi5pciIsImFpZCI6IjAiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiJkZTliNGQ2ZS1jMWQ0LTRmMTUtZDNlYS1kYjNmYWQyMmY5ZDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNzY1MSIsInBzIjoiQml0dnBuIDExIF8gSXJhbmNlbGwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+# Bitvpn 12 _ Irancell
+vless://c22f4d37-2c39-4c4f-88f6-81b178eaad62@45.85.119.3:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@shadow_net&sni=best.iranfreeserver.tk#Bitvpn+12+_+Irancell

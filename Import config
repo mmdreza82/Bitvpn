@@ -4,18 +4,10 @@ vless://39c8628d-ed62-4471-9983-63d7fe164a86@france10.mrrobot2.ir:39840?security
 
 # Bitvpn Holland
 vmess://eyJhZGQiOiJob3QyNDE5LmRkbnMubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY3ZTk4ODg1LWY2ODQtNGYyYi1jNTE2LWVmOGEwMzFiMGQ1YyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIyODI5MyIsInBzIjoi8J+Hs/Cfh7EgQklUVlBOIC0gTUNJIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
 Irancell:
 # Bitvpn asli germany
 vmess://eyJhZGQiOiJnZXJtYW4xLm1ycm9ib3QyLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJibWkuaXIiLCJpZCI6ImVlNjBjYzQzLTBkMjAtNGNmZC1jNTMxLTQ4NmIxNjJkZTMxMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjUyOTQxIiwicHMiOiLwn4ep8J+HqiBCSVRWUE4gSVJBTkNFTCAoQVNMSSkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
 
 ---------------------------
-# Bitvpn _ France (Adsl)
-vless://668d91c6-c3aa-4b68-fec3-ff0fc9339cf4@canva.com:443?path=%2Fnetazad22&security=tls&encryption=none&host=francenew1.omd2000-20002360.workers.dev&type=ws&sni=francenew1.omd2000-20002360.workers.dev#%F0%9F%87%AB%F0%9F%87%B7-BITVPN+Adsl
-
-# Bitvpn  _ France (Mci) 
-vless://668d91c6-c3aa-4b68-fec3-ff0fc9339cf4@irmci.shikposh.space:443?path=%2Fnetazad22&security=tls&encryption=none&host=francenew1.omd2000-20002360.workers.dev&type=ws&sni=francenew1.omd2000-20002360.workers.dev#%F0%9F%87%AB%F0%9F%87%B7+BITVPN+%E1%B4%B9%E1%B6%9C%E1%B4%B5
-
-# Bitvpn  _ France (Irancell) 
-vless://a7f25f37-32e6-489a-90df-a59164702f76@irancell-netazad22.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Netazad22&sni=bitvpn.vipbestvpnv2ray.cf#%F0%9F%87%AB%F0%9F%87%B7-BITVPN_Irancell+
- 
